@@ -17,5 +17,5 @@ In the near future I will be adding a version with varying crease flags for Open
 
 I am hoping that if others find this asset useful that they will contact me with any changes to topology, textures, and UV layout. If you have changes that you wish to contribute, please contact me through my github account with an fbx file containing your changes. I will not be version controlling the asset, and will instead add any new shaderballs to an additional subdirectory.
 
-![shaderBallCover](https://github.com/derkreature/ShaderBall/raw/master/images/shaderBallCover.jpg)
+![shaderBallCover](https://github.com/derkreature/ShaderBall/blob/master/images/ShaderBallCover.jpg)
 
