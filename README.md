@@ -10,7 +10,7 @@ Over the past 2 years I have had the need for a permissively licensed shaderball
 
 At this time (March 2015), I am just starting a project where I hope to implement OpenSubDiv into Epic's Unreal Engine 4.
 
-Mat Makin was kind enough to create this asset from scratch at my request after I spent some considerable time searching in vain for an equivalent mesh. 
+Mat Makin ( http://mathewmakin.com ) was kind enough to create this asset from scratch at my request after I spent some considerable time searching in vain for an equivalent mesh. 
 
 It is inspired quite heavily by Epic's gorgeous shaderball, however, I must note that it is a from scratch reinterpretation focused on topology for subdivision research.
 
